@@ -1,0 +1,20 @@
+* {
+  font-family: "Roboto";
+}
+h1 {
+  font-size: $title-font;
+  font-weight: bold;
+}
+h2 {
+  font-size: $subtitle-font;
+}
+p {
+  font-size: $parag-font;
+}
+.icon {
+  width: $icon-size;
+  margin-right: 4px;
+}
+td {
+  font-size: $keyboard-font;
+}

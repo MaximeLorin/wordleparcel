@@ -1,0 +1,20 @@
+//colors
+
+$bg-color: #e5e5e5;
+$card-color: white;
+$btnFont-color: #1f1f1f;
+
+//fonts sizes
+
+$title-font: 2.6rem;
+$keyboard-font: 1.6rem;
+$subtitle-font: 1.5rem;
+$parag-font: 1.1rem;
+$card-font: 1.1rem;
+$icon-size: 1rem;
+
+//colors
+$lighten-black: lighten(
+  $color: #000000,
+  $amount: 70%,
+);
